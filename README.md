@@ -25,11 +25,10 @@ const Pat = {
 
 
 
-**Contact me:** </br> 
+**Contact me:** </br> TBA
 
 
 <strong>inspired by </br>  
-  <a href="https://github.com/Thaiane">Thaine</a> (Javascript info part) </br>
   <a href="https://github.com/natemoo-re">Natemoo</a> (Spotify now playing path)
 </strong>
 
